@@ -1,5 +1,11 @@
 # MapReduce Implementation
 
+## Overview
+
+This implementation (in Go) is based on the MapReduce paper developed by Jeffery Dean and Sanjay Ghemawat of Google back in 2004.
+
+## Instructions
+
 In order to run this code on a MapReduce application (e.g. word-count), please navigate to the `mr-main` directory. First, make sure the word-count plugin is freshly built:
 
 ```
