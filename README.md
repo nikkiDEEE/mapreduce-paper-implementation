@@ -1,3 +1,5 @@
+# MapReduce Implementation
+
 In order to run this code on a MapReduce application (e.g. word-count), please navigate to the `mr-main` directory. First, make sure the word-count plugin is freshly built:
 
 ```
